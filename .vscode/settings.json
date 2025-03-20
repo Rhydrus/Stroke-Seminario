@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.shellIntegration.environmentReporting": true,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "terminal.integrated.sendKeybindingsToShell": false
+}
